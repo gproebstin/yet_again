@@ -1,0 +1,24 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'High-Dimensional Grace'
+theme = 'mini'
+disableKinds = ['taxonomy']
+
+defaultContentLanguage = 'en'
+
+[markup]
+  [markup.highlight]
+    guessSyntax=true
+    style='emacs'
+  [markup.tableOfContents]
+    endLevel= 3
+    ordered=false
+    startLevel= 2
+  [markup.goldmark.renderer]
+    unsafe = true
+
+[params]
+  author = 'Grace Proebsting'
+  bio = 'trying to understand neural networks'
+  description = 'A blog!'
+  hiddenPostSummaryInHomePage = true
