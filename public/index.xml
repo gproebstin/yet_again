@@ -5,6 +5,16 @@
     <link>http://example.org/</link>
     <description>Recent content on High-Dimensional GRAAACE</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 19 Jun 2023 08:48:32 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 101st Transformer Explainer</title>
+      <link>http://example.org/posts/first/</link>
+      <pubDate>Mon, 19 Jun 2023 08:48:32 -0400</pubDate>
+      
+      <guid>http://example.org/posts/first/</guid>
+      <description>Hello world! This is my first test post for the high-dimensional grace blog. Let&amp;rsquo;s see if I can figure out how to format my massive Figma file!</description>
+    </item>
+    
   </channel>
 </rss>
