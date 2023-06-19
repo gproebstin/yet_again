@@ -1,6 +1,6 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'High-Dimensional GRAAACE'
+title = 'High-Dimensional Grace'
 theme = 'mini'
 disableKinds = ['taxonomy']
 
