@@ -5,6 +5,7 @@ theme = 'mini'
 disableKinds = ['taxonomy']
 
 defaultContentLanguage = 'en'
+googleAnalytics = 'G-ZQ97E048N4'
 
 [markup]
   [markup.highlight]
@@ -22,3 +23,4 @@ defaultContentLanguage = 'en'
   bio = 'trying to understand neural networks'
   description = 'A blog!'
   hiddenPostSummaryInHomePage = true
+  enableGoogleAnalytics = true
