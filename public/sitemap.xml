@@ -2,19 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://highdimensionalgrace.com/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://highdimensionalgrace.com/posts/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/big_transformer/</loc>
+    <loc>https://highdimensionalgrace.com/posts/big_transformer/</loc>
     <lastmod>2023-06-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/hello_world/</loc>
+    <loc>https://highdimensionalgrace.com/posts/hello_world/</loc>
     <lastmod>2023-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://highdimensionalgrace.com/about/</loc>
     <lastmod>2023-06-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>

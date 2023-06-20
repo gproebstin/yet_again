@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>High-Dimensional Grace</title>
-    <link>http://example.org/</link>
+    <link>https://highdimensionalgrace.com/</link>
     <description>Recent content on High-Dimensional Grace</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://highdimensionalgrace.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The 101st Transformer Explainer</title>
-      <link>http://example.org/posts/big_transformer/</link>
+      <link>https://highdimensionalgrace.com/posts/big_transformer/</link>
       <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/big_transformer/</guid>
+      <guid>https://highdimensionalgrace.com/posts/big_transformer/</guid>
       <description> Note: The following explainer graphic will probably take a few seconds to load: apologies for the delay! </description>
     </item>
     
     <item>
       <title>Hello, World!</title>
-      <link>http://example.org/posts/hello_world/</link>
+      <link>https://highdimensionalgrace.com/posts/hello_world/</link>
       <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/posts/hello_world/</guid>
+      <guid>https://highdimensionalgrace.com/posts/hello_world/</guid>
       <description>Hello! My name&amp;rsquo;s Grace, and I&amp;rsquo;m trying to understand neural networks. Welcome to my blog!
 I&amp;rsquo;m most excited by questions around ML interpretability and robustness. Perhaps a silly way of summarizing my interests is &amp;lsquo;I want to learn to think like a neural network, and I want neural networks to learn to think like us.&amp;rsquo;
 I&amp;rsquo;m also a rising third-year undergrad at Haverford College (go fighting Quakers!), where I&amp;rsquo;m studying CS, math, and a sprinkling of philosophy.</description>
