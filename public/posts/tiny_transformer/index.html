@@ -6,10 +6,10 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
 <meta name="viewport" content="width=device-width,minimum-scale=1">
-<meta name="description" content="GPT-3 predicts what word will follow an inputted sequence. How does GPT work?
+<meta name="description" content="(Starting Note: This is an abridged version of a much, much longer transformer explainer. If you want to read the long version, you can find it here!)
+GPT-3 predicts what word will follow a sequence of text. How does GPT work?
 If you google for “GPT model”, you find a graphic that looks like this:
-This graphic gives a nice bird’s-eye view of a GPT model. But while it shows what steps happen in a GPT model, it doesn’t show how each step works.
-To clarify what is actually going on at each step of the GPT graphic, I made an annotated version, pictured below.">
+This graphic gives a nice bird’s-eye view of a GPT model. But while it shows what steps happen in a GPT model, it doesn’t show how each step works.">
 <meta name="generator" content="Hugo 0.113.0">
 
 
@@ -69,7 +69,7 @@ if (!doNotTrack) {
           ·
         </span>
         <span>
-          160 words
+          188 words
         </span>
         <span class="split">
           ·
@@ -84,7 +84,9 @@ if (!doNotTrack) {
 
 
     <div class="content">
-      <p>GPT-3 predicts what word will follow an inputted sequence. <strong>How does GPT work?</strong></p>
+      <p>(<strong>Starting Note</strong>: This is an abridged version of a much, much longer transformer explainer. If you want to read the long version, you can find it <a href="https://highdimensionalgrace.com/posts/big_transformer/" target="_blank" rel="noopener">here</a>!)</p>
+<hr>
+<p>GPT-3 predicts what word will follow a sequence of text. <strong>How does GPT work?</strong></p>
 <p>If you google for “GPT model”, you find a graphic that looks like this:</p>
 <p><p class="markdown-image">
   <img src="/birds_eye.svg" alt="Classic Transformer Graphic"  />

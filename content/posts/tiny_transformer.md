@@ -3,7 +3,10 @@ title: "Transformer Explainer: Pocket Edition"
 date: 2023-06-24
 draft: false
 ---
-GPT-3 predicts what word will follow an inputted sequence. **How does GPT work?** 
+(**Starting Note**: This is an abridged version of a much, much longer transformer explainer. If you want to read the long version, you can find it [here](https://highdimensionalgrace.com/posts/big_transformer/)!)
+
+---
+GPT-3 predicts what word will follow a sequence of text. **How does GPT work?** 
 
 If you google for “GPT model”, you find a graphic that looks like this:
 
