@@ -13,7 +13,7 @@
       <pubDate>Sat, 24 Jun 2023 00:00:00 +0000</pubDate>
       
       <guid>https://highdimensionalgrace.com/posts/tiny_transformer/</guid>
-      <description>(Starting Note: This is an abridged version of a much, much longer transformer explainer. If you want to read the long version, you can find it here!)
+      <description>(Starting Note: This is an abridged/&amp;lsquo;cheat sheet&amp;rsquo; version of a much, much longer transformer explainer. If you want to read the long version, you can find it here!)
 GPT-3 predicts what word will follow a sequence of text. How does GPT work?
 If you google for “GPT model”, you find a graphic that looks like this:
 This graphic gives a nice bird’s-eye view of a GPT model. But while it shows what steps happen in a GPT model, it doesn’t show how each step works.</description>

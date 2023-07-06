@@ -3,7 +3,7 @@ title: "Transformer Explainer: Pocket Edition"
 date: 2023-06-24
 draft: false
 ---
-(**Starting Note**: This is an abridged version of a much, much longer transformer explainer. If you want to read the long version, you can find it [here](https://highdimensionalgrace.com/posts/big_transformer/)!)
+(**Starting Note**: This is an abridged/'cheat sheet' version of a much, much longer transformer explainer. If you want to read the long version, you can find it [here](https://highdimensionalgrace.com/posts/big_transformer/)!)
 
 ---
 GPT-3 predicts what word will follow a sequence of text. **How does GPT work?** 
@@ -19,6 +19,6 @@ To clarify what is actually going on at each step of the GPT graphic, I made an 
 
 (I don’t provide much detail on the notation, parameters, and operations I refer to in the graphic below, so don’t worry if things seem confusing at first! For more explanation, [please see the much longer version of this explainer](https://highdimensionalgrace.com/posts/big_transformer/). :)
 
-![Grace's Annotated Transformer Graphic](/again.svg)
+![Grace's Annotated Transformer Graphic](/newest_bold.svg)
 
 I hope this graphic was helpful! As mentioned previously, you can also find a more detailed version of this explainer [here](https://highdimensionalgrace.com/posts/big_transformer/).
